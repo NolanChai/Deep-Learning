@@ -1,3 +1,4 @@
+#Basic Neural Network using a Sigmoid Logistics Function
 from numpy import exp, array, random, dot
 
 class NeuralNetwork():
